@@ -12,3 +12,5 @@ outputs:
     description: 'ACTIONS_RUNTIME_TOKEN env'
   ACTIONS_CACHE_URL:
     description: 'ACTIONS_CACHE_URL env'
+  ACTIONS_RESULTS_URL:
+    description: 'ACTIONS_RESULTS_URL env'
